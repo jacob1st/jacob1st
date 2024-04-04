@@ -6,7 +6,8 @@
   
 - Every project I've worked on has been a program I wrote simply to enjoy programming. Many were created as an entertaining way to test out a new topic I learned of.
 - Feel free to use and improve any of the code. Thanks!!
-- 
+  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-fuerst/)
 
 <!---
 jacob1st/jacob1st is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
