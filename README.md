@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @jacob1st
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=0c8e7a&center=true&vCenter=true&width=505&lines=Hi!;Have+a+look+around...;" alt="Typing SVG"/>
+    </h1>
+</div>
+
+👋 Hi! I'm Jacob Fuerst!
   
-- I’m interested in programming, computer science, mechanical engineering, robotics (especially prosthetics!), and cyber security.
+I’m currently pursuing a Bachelor of Science in Mechanical Engineering at Texas A&M  University. I love robotics, biomedical engineering, programming, and cyber security!
   
-- Outside of tech I enjoy playing chess and various video games. I have always wanted to learn to play the cello!
+Outside of tech I enjoy playing chess and various video games. *I have always wanted to learn to play the cello!*
   
-- Every project I've worked on has been a program I wrote simply to enjoy programming. Many were created as an entertaining way to test out a new topic I learned of.
-- Feel free to use and improve any of the code. Thanks!!
-  
+Many of the projects I have here were just fun ways to help myself learn new programming topics, so feel free to use and improve any of the code. Thanks!!
+
+----
+Check out my LinkedIn!
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-fuerst/)
 
 <!---
