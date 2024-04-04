@@ -12,6 +12,8 @@ Outside of tech I enjoy playing chess and various video games. *I have always wa
   
 Many of the projects I have here were just fun ways to help myself learn new programming topics, so feel free to use and improve any of the code. Thanks!!
 
+![](https://komarev.com/ghpvc/?username=jacob1st&color=green)
+
 ----
 Check out my LinkedIn!
 
