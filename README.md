@@ -8,7 +8,7 @@
   
 I’m currently pursuing a Bachelor of Science in Mechanical Engineering at Texas A&M  University. I love robotics, biomedical engineering, programming, and cyber security!
   
-Outside of tech I enjoy playing chess and various video games. *I have always wanted to learn to play the cello!*
+Outside of tech I enjoy playing chess and reading fantasy novels. *I have always wanted to learn to play the cello!*
   
 Many of the projects I have here were just fun ways to help myself learn new programming topics, so feel free to use and improve any of the code. Thanks!!
 
